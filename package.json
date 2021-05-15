@@ -1,0 +1,13 @@
+{
+  "name": "base64-to-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "base64-to-image": "^1.0.2",
+    "dotenv": "^9.0.2",
+    "mysql": "^2.18.1",
+    "pg": "^8.6.0"
+  },
+  "author": "Vinicius Garbin"
+}
